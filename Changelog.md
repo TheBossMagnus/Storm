@@ -1,3 +1,25 @@
+## Storm - 1.0.0-tp3 -> 1.0.0-tp4
+
+### Changed
+
+  * [fabricskyboxes-0.7.1+mc1.20.jar](https://modrinth.com/mod/fabricskyboxes/version/bl8ZIucH) -> [fabricskyboxes-0.7.2+mc1.20.1.jar](https://modrinth.com/mod/fabricskyboxes/version/eBCRqCMK)
+  * [puzzle-1.5.1+1.20.jar](https://modrinth.com/mod/puzzle/version/SyDRZGtj) -> [puzzle-1.5.2+1.20.jar](https://modrinth.com/mod/puzzle/version/F5UKlslF)
+
+> 12/07/2023
+
+---
+
+## Storm - 1.0.0-tp3 -> 1.0.0-rp4
+
+### Changed
+
+  * [fabricskyboxes-0.7.1+mc1.20.jar](https://modrinth.com/mod/fabricskyboxes/version/bl8ZIucH) -> [fabricskyboxes-0.7.2+mc1.20.1.jar](https://modrinth.com/mod/fabricskyboxes/version/eBCRqCMK)
+  * [puzzle-1.5.1+1.20.jar](https://modrinth.com/mod/puzzle/version/SyDRZGtj) -> [puzzle-1.5.2+1.20.jar](https://modrinth.com/mod/puzzle/version/F5UKlslF)
+
+> 12/07/2023
+
+---
+
 ## Storm - 1.0.0-tp2 -> 1.0.0-tp3
 
 ### Changed

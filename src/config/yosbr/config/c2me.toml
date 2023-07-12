@@ -1,13 +1,13 @@
 version = 3
 
-globalExecutorParallelism = "1"
-
 [clientSideConfig]
+
 	[clientSideConfig.modifyMaxVDConfig]
 		enabled = false
 
 [noTickViewDistance]
-	enabled = false
+	compatibilityMode = false
+	
+[ioSystem]
+	gcFreeChunkSerializer = true
 
-[threadedWorldGen]
-	enabled = false

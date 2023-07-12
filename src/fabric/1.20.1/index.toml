@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/debugify.json"
+hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "2f74d30cdca5c20a323bc1c129e357012c9314375fddd3433d050c7febd94468"
+hash = "1c6569947395fd27698eb434f48eced82d40896f13b86c0d9f55b853b71c1733"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -148,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "08b843dfc24cc97afeba5b3a60a1263c8aa4fc786398a1972cc69741f0253e22"
+hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 metafile = true
 
 [[files]]
@@ -243,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "684594797d13dbc0ca57a5a6349a4597c03f629617bff83621bafb147a22ee76"
+hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
