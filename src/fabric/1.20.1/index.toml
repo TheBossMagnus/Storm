@@ -66,13 +66,18 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
+hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
 
 [[files]]
@@ -81,8 +86,18 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "2dd8e54dbc79ba663e1026a67f7356cdb73547dc59bfe3e37966ea471de44398"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "2c4eb80ff8089ac60c3e4b87a8938b20e741b20241a9f3c2b21060c9f576dea8"
 metafile = true
 
 [[files]]
@@ -122,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "af2b679c2e784b72c56a825f546f2947d3d17a970a1f411cb0c95ec90e0ca77a"
+hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
 metafile = true
 
 [[files]]
@@ -211,23 +226,23 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
+hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
@@ -261,6 +276,11 @@ hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6afddbb9999fbdeb30199a43754c06aef8bab71bebed392f8aa74ace1afbdbc0"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
 metafile = true
@@ -273,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
@@ -302,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "a15f9e9e837e48c3429d5cd058cc14afea2084fae06b2d8d61dc80f9ab1f742f"
+hash = "f4056271abaa9bcbccdcb8912a04772665f93975c46c037f0c1a870922b908a5"
 metafile = true
 
 [[files]]
