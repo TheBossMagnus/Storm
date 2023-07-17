@@ -7,7 +7,6 @@ version = 3
 
 [noTickViewDistance]
 	compatibilityMode = false
-	
+
 [ioSystem]
 	gcFreeChunkSerializer = true
-

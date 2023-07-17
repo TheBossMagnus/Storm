@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "90091c16a34192c6513f053c15844b3cedb7b4fcc18fc3337176da63b00eedb1"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
+hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+hash = "80936e3bf2eeba8e33ca332f76cfb60609c7d26ff81c136f7e04f19916a4dea0"
 metafile = true
 
 [[files]]

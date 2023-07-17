@@ -1,3 +1,16 @@
+## Storm - 1.0.0-tp5 -> 1.0.0-tp6
+
+### Changed
+
+  * [Controlling-fabric-1.20.1-12.0.1.jar](https://modrinth.com/mod/controlling/version/grD8aE1j) -> [Controlling-fabric-1.20.1-12.0.2.jar](https://modrinth.com/mod/controlling/version/6ipZLQSK)
+  * [fsb-interop-1.3.2+mc1.20-build.36.jar](https://modrinth.com/mod/fabricskyboxes-interop/version/pA1F353z) -> [fsb-interop-1.3.3+mc1.20-build.46.jar](https://modrinth.com/mod/fabricskyboxes-interop/version/Y5qDVQ5H)
+  * [optigui-2.1.2.jar](https://modrinth.com/mod/optigui/version/YU9Yi2mO) -> [optigui-2.1.3.jar](https://modrinth.com/mod/optigui/version/41AoOR3G)
+  * [sodium-extra-0.4.20+mc1.20-build.103.jar](https://modrinth.com/mod/sodium-extra/version/kTxAMqAj) -> [sodium-extra-0.4.22+mc1.20.1-build.105.jar](https://modrinth.com/mod/sodium-extra/version/KFJPGpgu)
+
+> 17/07/2023
+
+---
+
 ## Storm - 1.0.0-tp4 -> 1.0.0-tp5
 
 ### Added
