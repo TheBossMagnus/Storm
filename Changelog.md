@@ -1,3 +1,35 @@
+## Storm - 1.0.0-tp8 -> 1.0.0-a1
+
+### Added
+
+  * [AppleSkin](https://modrinth.com/mod/appleskin) (by [Ryan Liptak](https://modrinth.com/user/squeek502))
+  * [Chat Heads](https://modrinth.com/mod/chat-heads) (by [dzwdz](https://modrinth.com/user/dzwdz))
+
+### Removed
+
+  * [Chat Patches](https://modrinth.com/mod/chatpatches) (by [MechanicalArcane](https://modrinth.com/user/OBro1961))
+  * [Searchables](https://modrinth.com/mod/searchables) (by [Jared](https://modrinth.com/user/jaredlll08))
+
+### Changed
+
+  * [continuity-3.0.0-beta.2+1.20.jar](https://modrinth.com/mod/continuity/version/ImUFj5Gl) -> [continuity-3.0.0-beta.3+1.20.1.jar](https://modrinth.com/mod/continuity/version/xy2co4Rh)
+  * [Controlify-1.4.4+1.20.jar](https://modrinth.com/mod/controlify/version/aT4dMJAD) -> [Controlify-1.4.5+1.20.jar](https://modrinth.com/mod/controlify/version/xncNJgTg)
+  * [fabric-api-0.86.0+1.20.1.jar](https://modrinth.com/mod/fabric-api/version/P7fEfdSc) -> [fabric-api-0.86.1+1.20.1.jar](https://modrinth.com/mod/fabric-api/version/XheZ9iGK)
+  * [modernfix-fabric-5.3.1+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/yRHXqAyS) -> [modernfix-fabric-5.3.2+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/9HGXIyEe)
+  * [optigui-2.1.4.jar](https://modrinth.com/mod/optigui/version/3CSEKfcd) -> [optigui-2.1.5.jar](https://modrinth.com/mod/optigui/version/x0k8u61W)
+  * [vmp-fabric-mc1.20.1-0.2.0+beta.7.98-all.jar](https://modrinth.com/mod/vmp-fabric/version/INwYKQHA) -> [vmp-fabric-mc1.20.1-0.2.0+beta.7.99-all.jar](https://modrinth.com/mod/vmp-fabric/version/1D8E3qF2)
+  * [yet-another-config-lib-fabric-3.0.3+1.20.jar](https://modrinth.com/mod/yacl/version/g38uL3ti) -> [yet-another-config-lib-fabric-3.1.0+1.20.jar](https://modrinth.com/mod/yacl/version/CgwTUAR2)
+
+> 25/07/2023
+
+---
+
+## Storm - 1.0.0-tp9 -> 1.0.0-a1
+
+> 25/07/2023
+
+---
+
 ## Storm - 1.0.0-tp8 -> 1.0.0-tp9
 
 ### Added
