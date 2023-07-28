@@ -1,12 +1,12 @@
 name = "Storm"
 author = "TheBossMagnus"
-version = "1.0.0-a1"
+version = "1.0.0-a2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8e52d38ca52385e6b0fddf7bfd6b02ebe1215af499f1ccac3625dceb4e9f78d7"
+hash = "af2407123c3157b53df69c52f62ede27e562af398587541c0eeec9cea8f2c88b"
 
 [versions]
 fabric = "0.14.21"

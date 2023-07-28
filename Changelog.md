@@ -1,3 +1,18 @@
+## Storm - 1.0.0-a1 -> 1.0.0-a2
+
+### Changed
+
+  * [c2me-fabric-mc1.20.1-0.2.0+alpha.10.94.jar](https://modrinth.com/mod/c2me-fabric/version/fIRoJeNG) -> [c2me-fabric-mc1.20.1-0.2.0+alpha.10.96.jar](https://modrinth.com/mod/c2me-fabric/version/iaC5daGO)
+  * [Controlify-1.4.5+1.20.jar](https://modrinth.com/mod/controlify/version/xncNJgTg) -> [Controlify-1.4.6+1.20.jar](https://modrinth.com/mod/controlify/version/y7xMOOMU)
+  * [ImmediatelyFast-1.1.16+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/aptjkgGB) -> [ImmediatelyFast-1.1.19+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/mGqxsY9X)
+  * [modernfix-fabric-5.3.2+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/9HGXIyEe) -> [modernfix-fabric-5.4.2+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/WYn556RC)
+  * [reeses_sodium_options-1.5.1+mc1.20-build.74.jar](https://modrinth.com/mod/reeses-sodium-options/version/SgSIhHQO) -> [reeses_sodium_options-1.6.3+mc1.20.1-build.92.jar](https://modrinth.com/mod/reeses-sodium-options/version/PCctWHcc)
+  * [vmp-fabric-mc1.20.1-0.2.0+beta.7.99-all.jar](https://modrinth.com/mod/vmp-fabric/version/1D8E3qF2) -> [vmp-fabric-mc1.20.1-0.2.0+beta.7.100-all.jar](https://modrinth.com/mod/vmp-fabric/version/CFUsBP6G)
+
+> 28/07/2023
+
+---
+
 ## Storm - 1.0.0-tp8 -> 1.0.0-a1
 
 ### Added
