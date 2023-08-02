@@ -1,3 +1,17 @@
+## Storm - 1.0.0-a2 -> 1.0.0-a3
+
+### Changed
+
+  * [chat_heads-0.10.18-fabric-1.20.jar](https://modrinth.com/mod/chat-heads/version/D6dgVTW0) -> [chat_heads-0.10.19-fabric-1.20.jar](https://modrinth.com/mod/chat-heads/version/STxUpGFu)
+  * [Chat Reporting Helper.zip](https://modrinth.com/resourcepack/chat-reporting-helper/version/DRaVYgzW) -> [Chat Reporting Helper.zip](https://modrinth.com/resourcepack/chat-reporting-helper/version/i6BLAbO7)
+  * [ImmediatelyFast-1.1.19+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/mGqxsY9X) -> [ImmediatelyFast-1.1.24+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/1BSUFszc)
+  * [sodium-extra-0.4.23+mc1.20.1-build.106.jar](https://modrinth.com/mod/sodium-extra/version/Tf56kC8G) -> [sodium-extra-0.4.25+mc1.20.1-build.108.jar](https://modrinth.com/mod/sodium-extra/version/jy7D3eLo)
+  * [Zoomify-2.10.0.jar](https://modrinth.com/mod/zoomify/version/1mKrqlvv) -> [Zoomify-2.11.0.jar](https://modrinth.com/mod/zoomify/version/tv8GIQDa)
+
+> 02/08/2023
+
+---
+
 ## Storm - 1.0.0-a1 -> 1.0.0-a2
 
 ### Changed
