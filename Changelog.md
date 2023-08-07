@@ -1,3 +1,24 @@
+## Storm - 1.0.0-a3 -> 1.0.0-a4
+
+### fabric - 0.14.21 -> 0.14.22
+
+### Changed
+
+  * [entity_texture_features_fabric_1.20-4.4.4.jar](https://modrinth.com/mod/entitytexturefeatures/version/DpEWP7FH) -> [entity_texture_features_fabric_1.20-4.5.0.jar](https://modrinth.com/mod/entitytexturefeatures/version/9Em1LjD2)
+  * [fsb-interop-1.3.3+mc1.20-build.46.jar](https://modrinth.com/mod/fabricskyboxes-interop/version/Y5qDVQ5H) -> [fsb-interop-1.3.4+mc1.20-build.47.jar](https://modrinth.com/mod/fabricskyboxes-interop/version/mH6v5ahJ)
+  * [ImmediatelyFast-1.1.24+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/1BSUFszc) -> [ImmediatelyFast-1.1.26+1.20.1.jar](https://modrinth.com/mod/immediatelyfast/version/fZa7YlyA)
+  * [indium-1.0.21+mc1.20.1.jar](https://modrinth.com/mod/indium/version/yTh7W27h) -> [indium-1.0.23+mc1.20.1.jar](https://modrinth.com/mod/indium/version/HIQfyNd3)
+  * [iris-mc1.20-1.6.4.jar](https://modrinth.com/mod/iris/version/URWeWMAt) -> [iris-mc1.20.1-1.6.5.jar](https://modrinth.com/mod/iris/version/Sc0OZ0Ze)
+  * [modernfix-fabric-5.4.2+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/WYn556RC) -> [modernfix-fabric-5.6.0+mc1.20.1.jar](https://modrinth.com/mod/modernfix/version/IDCtf2Pk)
+  * [moreculling-1.20-0.18.1.jar](https://modrinth.com/mod/moreculling/version/BbgZWSfa) -> [moreculling-1.20.1-0.19.0.jar](https://modrinth.com/mod/moreculling/version/Bu5pCvCn)
+  * [reeses_sodium_options-1.6.3+mc1.20.1-build.92.jar](https://modrinth.com/mod/reeses-sodium-options/version/PCctWHcc) -> [reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar](https://modrinth.com/mod/reeses-sodium-options/version/JB3vAAoX)
+  * [sodium-fabric-mc1.20-0.4.10+build.27.jar](https://modrinth.com/mod/sodium/version/vgceLbdH) -> [sodium-fabric-mc1.20.1-0.5.0.jar](https://modrinth.com/mod/sodium/version/hiO9bwqc)
+  * [sodium-extra-0.4.25+mc1.20.1-build.108.jar](https://modrinth.com/mod/sodium-extra/version/jy7D3eLo) -> [sodium-extra-0.5.0+mc1.20.1-build.111.jar](https://modrinth.com/mod/sodium-extra/version/5KCYvoSI)
+
+> 07/08/2023
+
+---
+
 ## Storm - 1.0.0-a2 -> 1.0.0-a3
 
 ### Changed
