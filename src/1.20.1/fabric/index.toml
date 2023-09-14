@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/debugify.json"
-hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
 
@@ -29,8 +25,8 @@ file = "config/yosbr/config/entityculling.json"
 hash = "6a57f9a8aa7b043f7a969888054e2c1bc5f8d521e70682a7474312947d4b7ff9"
 
 [[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
+file = "config/yosbr/config/fastquit.toml"
+hash = "21e5084a537bb942159c4dbbc6037f1a107c8c0e38860cb82ab651dde2ad0aa3"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -87,18 +83,13 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c1f8f41882416f428df817680e011795b56e1894594fd663eba03e48b56fbdc6"
+hash = "fc47c198490faa6448c404d5d80c7ab7afc4481ec005a137733efb4d41aadd9c"
 metafile = true
 
 [[files]]
@@ -132,11 +123,6 @@ hash = "a1659dc663c6e42f1e410b1833594e8f36cd4f7f2dbfc40068f9ed65676af691"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
@@ -148,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "003d199f378b384e1583d2a50cd432fd9507b546110285482991f33ad5994306"
+hash = "07b5408b9bb345142ba433e13c5022fe05b6f244cc6b5d5c54779398b5ea191a"
 metafile = true
 
 [[files]]
@@ -222,6 +208,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
 metafile = true
@@ -263,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+hash = "ce36f3497ba0d0e2fd282d5881dbc84bac0b86b43c824dbaee306bd832801c88"
 metafile = true
 
 [[files]]
@@ -333,5 +324,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e4f68d61cdaeaa8d6b028ea3076bbbf751fd51732260e635dcde7b1cfa33b735"
+hash = "3001783d571a52d9ff3f63012fecc5a4ecdf5d1bc7d2bfe1b22bc68c00e1eb0c"
 metafile = true
