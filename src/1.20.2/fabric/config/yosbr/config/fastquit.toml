@@ -1,0 +1,4 @@
+renderSavingScreen = false
+showToasts = false
+showSavingTime = "§cNo"
+allowMultipleServers = true
