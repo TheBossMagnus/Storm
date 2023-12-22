@@ -6,7 +6,7 @@ hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "f83ab2ff002210d91575ad6da213c863684d09b70972cb3758be7cb74bc42d31"
+hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
 file = "config/yosbr/config/clean-debug.json"
@@ -34,15 +34,19 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "60c0760390bdff670ccd012bd890eb35e5537be1222e94f7aaa91c4cc8d0e931"
+hash = "6bd59873ad94c9a07604af1001c1c45c09f510f9f8006e4c1819e370960955e3"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "5c371f888faf5479736b19c2d23ea3a9385f01d2260ec26498fad5a2267f08da"
 
 [[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "e5b0cbdba61b5bb019e9bf19333ace14c2da739baa936d3506b5edab3186ecf4"
+
+[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "0249aa3bac0b585556e202cc2c7c872567d36ba4f29d0de0dcf4ff6079dc54c3"
+hash = "0472259fee949625d5edc7f516f8c52bb841b199e4a8461a806341a5f8870e0b"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -53,38 +57,20 @@ file = "config/yosbr/config/puzzle.json"
 hash = "66235fd57899fb488f0e30b8a20feb3e90d93eb88f5edc0d252cf16daa2f7c91"
 
 [[files]]
-file = "config/yosbr/config/smoothboot.json"
-hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "0b0f3ae6e172d400a20d54f583e25c3d1628fbc97ec448ee6ed34601a9823652"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
-hash = "bb5f2c6a1cef96aa8671f1dd2b6f76a4df34717db2837fcf32fda8d27573c853"
-
-[[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "a3865d5c3a0bb959243136176a91f85b3bf4cd8aa602c4a59ce498186731e18d"
+hash = "1e0ada8860c40ebb04be3d1b25c47b1738f447a2dcc4eeae30be103f888d4ae2"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
@@ -93,23 +79,8 @@ hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
-metafile = true
-
-[[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "2b28d1339f3853d3568d2e48096cac9c75745e93d484c36d03345bcaa3b7c3a9"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
@@ -203,11 +174,6 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "ce36f3497ba0d0e2fd282d5881dbc84bac0b86b43c824dbaee306bd832801c88"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "29d85b8c6d97e886f4f8200a1ea2e151602fc3944b71d5e5a134ecf6bcb5288a"
 metafile = true
@@ -240,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
 metafile = true
 
 [[files]]
