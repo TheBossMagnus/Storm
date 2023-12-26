@@ -1,0 +1,47 @@
+name: Automatically publish to Modrinth
+'on':
+  release:
+    types:
+      - released
+  workflow_dispatch:
+
+jobs:
+  publish-to-modrinth:
+    runs-on: ubuntu-22.04
+    steps:
+
+      - name: Get versions
+        id: Get_Version
+        run: |
+          echo "pack=$(echo ${{ github.event.release.tag_name }} | cut -d'+' -f1)" >> $GITHUB_OUTPUT
+          echo "minecraft=$(echo ${{ github.event.release.tag_name }} | cut -d'+' -f2)" >> $GITHUB_OUTPUT
+
+      - name: Download the pack files
+        uses: robinraju/release-downloader@v1.8
+        with:
+          fileName: '*'
+          tag: '${{ github.event.release.tag_name }}'
+
+      - name: Publish quilt
+        if: steps.get_version.outputs.minecraft == '1.18.2' || steps.get_version.outputs.minecraft == '1.19.2' || steps.get_version.outputs.minecraft == '1.19.4' || steps.get_version.outputs.minecraft == '1.20.1'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ehPxCT2J
+          modrinth-token: '${{ secrets.MODRINTH }}'
+          files: Storm-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.mrpack
+          name: Storm ${{steps.get_version.outputs.pack}} for quilt ${{ steps.get_version.outputs.minecraft }}
+          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+quilt-${{steps.get_version.outputs.minecraft }}.md
+          loaders: 'quilt'
+          game-versions: '${{ steps.get_version.outputs.minecraft }}'
+
+      - name: Publish fabric
+        if: always()
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ehPxCT2J
+          modrinth-token: '${{ secrets.MODRINTH }}'
+          files: Storm-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.mrpack
+          name: Storm ${{steps.get_version.outputs.pack}} for fabric ${{ steps.get_version.outputs.minecraft }}
+          changelog-file: Changelog-${{steps.get_version.outputs.pack}}+fabric-${{steps.get_version.outputs.minecraft }}.md
+          loaders: 'fabric'
+          game-versions: '${{ steps.get_version.outputs.minecraft }}'
