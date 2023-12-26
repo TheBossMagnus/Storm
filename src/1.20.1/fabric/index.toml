@@ -9,6 +9,10 @@ file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "b58a827000f2b3626af0c73640a46a52d5100dd97882f9a90212901acedf48b3"
+
+[[files]]
 file = "config/yosbr/config/clean-debug.json"
 hash = "847e1755f064d496a29b42fde2d8e197a6ee437f30a7784ae9d5fae539eed072"
 
@@ -87,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
-metafile = true
-
-[[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "7947b685261f82a074e1f8794650b1bcd066e79a2624c42147a6d15478df6aea"
 metafile = true
 
 [[files]]
