@@ -9,6 +9,10 @@ file = "config/yosbr/config/c2me.toml"
 hash = "becc00aed92a4b90db4cd189d8d146e2452d080688e5a9da414f53bd62fbeff6"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "b58a827000f2b3626af0c73640a46a52d5100dd97882f9a90212901acedf48b3"
+
+[[files]]
 file = "config/yosbr/config/clean-debug.json"
 hash = "847e1755f064d496a29b42fde2d8e197a6ee437f30a7784ae9d5fae539eed072"
 
@@ -71,6 +75,11 @@ hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
 
 [[files]]
