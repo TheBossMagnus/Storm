@@ -89,12 +89,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
+hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "494e520aaf108172df1eed9915c5fba5fa8a47eab32412ff8e1c888d13d99492"
+hash = "b1dd9fca21e7fc6d763fe499b05c4b88b516899a474c8f9b9661bef6ee4771ad"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "353705717b82a658e27d091b768398c27db7f7cafd4ab61f3df4fc59406628af"
+hash = "8aedc7b003b47487c5c2a7e39caedd558cf715c35458956a1a4a18004ca0acbd"
 metafile = true
 
 [[files]]
