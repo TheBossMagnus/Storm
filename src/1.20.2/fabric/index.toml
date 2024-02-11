@@ -74,7 +74,7 @@ hash = "97c1428c516f0de1353f0930e9d0d2374f0d26feeaea09cbbebac7dcf1fc347c"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
+hash = "c2f953f1ac006fbfada6be6c01aa1a126e7600fdb9d3495dae23a47d950ea85c"
 metafile = true
 
 [[files]]
@@ -104,12 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "175b853e7471f981ca6995829aae94b6a9df640619d5dba9b2a5008251f8866a"
+hash = "852b786866079a89a434193cb0c9bee3111ea3e9b9dae63b7a9077cd625969ca"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f02d05f8543f4b2c6aecaa7f070da84b08bccab0441fb2c3408fafde69fd8914"
+hash = "1dea1472741762757eed29f76877f5913b0e445aa5e91a43ec9dcab63149e190"
 metafile = true
 
 [[files]]
@@ -144,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
+hash = "a0128253e17ebcd9453ffd96cfb9038e795d9204118eff9909070fa1c3b7de2b"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0b471d79403e6f7b9995d1804e885afed92cdd359d58b8a596a7fc1c3b804244"
+hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
@@ -224,5 +224,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "90c849e9815a573436b53334be4636ccd63b5ba47cebe6677979fd5375b00185"
+hash = "4f19fc9a24277dd76355521310d1ec354ef40d3fba908cabff003f77db92f2d7"
 metafile = true
